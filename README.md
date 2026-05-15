@@ -16,7 +16,7 @@ Gnomintosh (Tahoe version) is a customization theme package that transforms the 
 Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < extensions.dconf
 then download the wallpaper
 Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos
-then download the icons and theme below in "Credits"
+then download the icons and theme below in "Credits".
 
 ## Credits
 * https://github.com/vinceliuice/MacTahoe-gtk-theme
