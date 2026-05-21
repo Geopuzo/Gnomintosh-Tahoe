@@ -23,6 +23,6 @@ then download the icons and theme below in "Credits".
 * https://github.com/vinceliuice/MacTahoe-icon-theme
 
 ## Authors
-* **Geoprostranstvenny**
+* **Swift**
 * **Tworence**
 
